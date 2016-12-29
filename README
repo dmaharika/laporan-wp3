@@ -1,0 +1,37 @@
+Dear D4 Mekatronika B 2015,
+Mengenai Workshop Pemograman,
+Laporan terdiri dari 7 buah program dengan list sebagai berikut :
+1. Draw Line
+2. Slider Sederhana
+3. Grafik Sinus
+4. Face Follow
+5. Histogram
+6. Komunikasi Osc
+7. Post Test
+
+Berikut adalah addons yang harus terinstall :
+1. ofxGui
+2. ofxCv
+3. ofxHistoryPlot
+4. ofxHistogram
+5. ofxOsc
+
+dan tak lupa, gunakan qtcreator untuk melihat programnya. dalam qtcreator, jangan memilih new project tapi pilihlah open project dan masuk ke folder program dan pilih [Nama Program].qbs
+
+semua program sudah siap untuk langsung run.
+
+disarankan untuk memodifikasi variabel di dalam program agar kalian lebih mengerti mengenai program tersebut.
+
+Dalam Format Laporan Praktikum, yang perlu kalian lakukan adalah meng-copy dan paste code sesuai dengan porsi ofApp.h dan ofApp.cpp lalu menambahkan screenshot program yang telah dijalankan. Dan jangan lupa untuk memberikan analisa kalian mengenai program tersebut.
+
+file odt yang kalian buka menggunakka LibreOffice silakan diexport dengan format file pdf dan format nama file "NRP_Nama Lengkap".
+
+File dikumpulkan d
+
+Selamat mengerjakan.
+
+Tertanda, 
+PJ WP 3
+DM Dinama
+
+P.s. : apabila masih ada pertanyaan bisa menghubungi pj
