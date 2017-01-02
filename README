@@ -16,6 +16,7 @@ Berikut adalah addons yang harus terinstall :
 4. ofxHistogram
 5. ofxOsc
 
+saran, setelah mengclone, pindahkan semua program tugas ke myapps, sehingga setelah myapps langsung ke program tugas tidak ke laporan-wp3 terlebih dahulu
 dan tak lupa, gunakan qtcreator untuk melihat programnya. dalam qtcreator, jangan memilih open project tapi pilihlah new project dan import an existing openframework project pilih masuk ke folder program dan choose
 jangan lupa memasang addons di qtcreatornya
 semua program sudah siap untuk langsung run.
