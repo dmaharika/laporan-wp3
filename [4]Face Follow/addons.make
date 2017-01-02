@@ -1,4 +1,2 @@
 ofxCv
-ofxOpenCv
-ofxGui
 ofxHistoryPlot
