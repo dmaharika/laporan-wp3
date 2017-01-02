@@ -16,8 +16,8 @@ Berikut adalah addons yang harus terinstall :
 4. ofxHistogram
 5. ofxOsc
 
-dan tak lupa, gunakan qtcreator untuk melihat programnya. dalam qtcreator, jangan memilih new project tapi pilihlah open project dan masuk ke folder program dan pilih [Nama Program].qbs
-
+dan tak lupa, gunakan qtcreator untuk melihat programnya. dalam qtcreator, jangan memilih open project tapi pilihlah new project dan import an existing openframework project pilih masuk ke folder program dan choose
+jangan lupa memasang addons di qtcreatornya
 semua program sudah siap untuk langsung run.
 
 disarankan untuk memodifikasi variabel di dalam program agar kalian lebih mengerti mengenai program tersebut.
