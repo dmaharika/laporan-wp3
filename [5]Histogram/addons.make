@@ -1,2 +1,1 @@
 ofxHistogram
-ofxOpenCv
